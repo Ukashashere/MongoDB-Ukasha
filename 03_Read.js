@@ -20,3 +20,4 @@ Using the $or operator, you can specify a compound query that joins each clause 
 
 //for fetching only one document
 db.inventory.findOne( { status: { $in: [ "A", "D" ] } } )
+/*finds first document in the Database that has "A" or "D" in it*/

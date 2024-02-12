@@ -8,3 +8,6 @@ U- Update
 D- Delete
 
 use employees  //Use particulat database from the all available databases
+
+/*Use 'mongoDB documentation'...'mongoDB manual'...'CRUD operations' and others for many
+other commands -->https://www.mongodb.com/docs/manual/tutorial/remove-documents/ */
